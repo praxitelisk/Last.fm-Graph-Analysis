@@ -4,7 +4,7 @@ import ast
 
 
 #My API Key
-APIKEY = "90abbe594e2c2ebdab5744a18ff8d8fa"
+APIKEY = "**************************"
 
 #some argument checking
 if len(sys.argv)==3:
